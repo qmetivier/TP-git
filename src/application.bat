@@ -1,4 +1,7 @@
 ###application.bat - 2018 - Metivier ###
-echo "Copyright company - 2018"
-echo "Build : 10:00"
-echo "version 1.1"
+
+version="2"
+build hours = "11h00"
+
+echo "Build ${build_hour}"
+echo "version ${version}"
